@@ -3,7 +3,7 @@
   {
     "id": 1,
     "mes": "Abril",
-    "imagen": "../../../../assets/img/debatesh/pocashonta.jpg",
+    "imagen": "https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/debates/pocashonta.jpg?raw=true",
     "tesis": "Los personajes femeninos en los cuentos y caricaturas son siempre sumisos.",
     "favor": "Colegio Ejercito Libertador",
     "contra": "Escuela Joaquín Prieto Vial",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "mes": "Abril",
-    "imagen": "../../../../assets/img/debatesh/cupido.png",
+    "imagen": "https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/debates/cupido.png?raw=true",
     "tesis": "Algunos /as escritores /as le dan un lugar corporal al amor. “El Amor surge en el cerebro o en el corazón.”",
     "favor": "Escuela Pedro Aguirre Cerda",
     "contra": "Cóndores de Plata",
@@ -21,7 +21,7 @@
   {
     "id": 3,
     "mes": "Abril",
-    "imagen": "../../../../assets/img/debatesh/mafalda.png",
+    "imagen": "https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/debates/mafalda.png?raw=true",
     "tesis": "Mafalda o la Pequeña Lulú, son personajes literarios que prueban que no hay discriminación de la mujer en la literatura infantil",
     "favor": "Escuela Santa Adela",
     "contra": "Los Cerrillos",
@@ -30,7 +30,7 @@
   {
     "id": 4,
     "mes": "Abril",
-    "imagen": "../../../../assets/img/debatesh/marge_simpson.jpg",
+    "imagen": "https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/debates/marge_simpson.jpg?raw=true",
     "tesis": "Marge Simpson es un personaje de caricaturas femenino, ella es un ejemplo de la realidad que vive la mujer sometida al hogar.",
     "favor": "Lothar Kommer Brager",
     "contra": "Estrella Reina de Chile",
@@ -39,7 +39,7 @@
   {
     "id": 5,
     "mes": "Abril",
-    "imagen": "../../../../assets/img/debatesh/gabriela.jpg",
+    "imagen": "https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/debates/gabriela.jpg?raw=true",
     "tesis": "Gabriela Mistral fue perjudicada por su preferencia sexual.",
     "favor": "Liceo Dr. Luis Vargas Salcedo (Vespertino)",
     "contra": "Liceo Paulo Freire de Quellón Chiloé",
@@ -48,7 +48,7 @@
   {
     "id": 6,
     "mes": "Abril",
-    "imagen": "../../../../assets/img/debatesh/perséfone.jpg",
+    "imagen": "https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/debates/pers%C3%A9fone.jpg?raw=true",
     "tesis": "El mito de Perséfone Y Deméter, relata a mujeres débiles.",
     "favor": "Liceo Dr. Luis Vargas Salcedo (Enseñanza Básica)",
     "contra": "Escuela Básica Tupahue de San Ramón.",
@@ -57,7 +57,7 @@
   {
     "id": 7,
     "mes": "Mayo",
-    "imagen": "../../../../assets/img/caracol.jpg",
+    "imagen": "https://plantamus.com/blog/wp-content/uploads/2017/11/recetas-de-caracol-cocinarlos.jpg",
     "tesis": "¿Ha cambiado la representación de la mujer discriminada en la literatura actual?",
     "favor": "Liceo Paulo Freire de Quellón Chiloé",
     "contra": "Liceo Dr. Luis Vargas Salcedo (Enseñanza Media)",
@@ -66,7 +66,7 @@
   {
     "id": 8,
     "mes": "Mayo",
-    "imagen": "../../../../assets/img/caracol.jpg",
+    "imagen": "https://plantamus.com/blog/wp-content/uploads/2017/11/recetas-de-caracol-cocinarlos.jpg",
     "tesis": "Los personajes femeninos en los cuentos y caricaturas son siempre sumisos",
     "favor": "Colegio Ejercito Libertador",
     "contra": "Escuela Joaquín Prieto Vial",
