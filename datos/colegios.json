@@ -1,1 +1,142 @@
 
+[
+    {
+      "id": 1,
+      "colegio": "Ejercito Libertador",
+      "estudiante1":"Kiara Ramírez",
+      "estudiante2":"Karen Builes",
+      "estudiante3":"Alexandra Aravena",
+      "estudiante4": "Harol Compay",
+      "estudiante5":"",
+      "profesor1":"Natalia Dinamarca",
+      "profesor2":"Marcela Valdés",
+      "profesor3":"",
+      "imagen":".https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/insignias/EjercitoLibertador.png?raw=true",
+      "color": "blue"
+    },
+
+    {
+        "id": 2,
+        "colegio": "Los Cerrillos",
+        "estudiante1":"Vicente Cerda",
+        "estudiante2":"Martin Mena",
+        "estudiante3":"Antonella Rosales",
+        "estudiante4":"Antonella Carriel",
+        "estudiante5":"",
+        "profesor1":"Yaneth Olguín",
+        "profesor2":"",
+        "profesor3":"",
+        "imagen":"https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/insignias/CerrillosCatemu.jpg?raw=true",
+        "color":"green"
+    },
+
+      {
+        "id": 3,
+        "colegio": "Condores de Plata",
+        "estudiante1":"Rebeca Pérez",
+        "estudiante2":"Constanza González ",
+        "estudiante3":"Rocío Sepúlveda",
+        "estudiante4":"Dayan Reyes",
+        "estudiante5":"Agustín Navarrete ",
+        "profesor1":"Cecilia Celis",
+        "profesor2":"",
+        "profesor3":"",
+        "imagen":"https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/insignias/CondoresPlata.jpg?raw=true",
+        "color":"yellow"
+      },
+
+      {
+        "id": 4,
+        "colegio": "Dr. Luis Vargas Salcedo",
+        "estudiante1":"Sofia A.",
+        "estudiante2":"Cristian P.",
+        "estudiante3":"Valery R.",
+        "estudiante4":"Elizabeth G.",
+        "estudiante5":"",
+        "estudiante6":"Millaray O.",
+        "estudiante7":"Víctor A.",
+        "estudiante8":"Yadhira L.",
+        "estudiante9":"Fernanda N.",
+        "estudiante10":"Davier R.",
+        "profesor1":"Gustavo Chiang",
+        "profesor2":"Gustavo López",
+        "profesor3":"Luisa González",
+        "imagen":"https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/insignias/DR_LVS.jpg?raw=true",
+        "color":"brown"
+      },
+
+      {
+        "id": 5,
+        "colegio": "José Joaquín Prieto Vial",
+        "estudiante1":"Gabriel Manríquez",
+        "estudiante2":"Dangelo López",
+        "estudiante3":"Vicente García",
+        "estudiante4":"Maximiliano Villarroel",
+        "estudiante5":"",
+        "profesor1":"Antonio Rojas",
+        "profesor2":"",
+        "profesor3":"",
+        "imagen":"https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/insignias/JJPV.png?raw=true",
+        "color":"purple"
+      },
+
+      {
+        "id": 6,
+        "colegio": "Lothar Kommer Brage",
+        "estudiante1":"Amaro Dalmazo",
+        "estudiante2":"Aiyali Svensson",
+        "estudiante3":"Benjamin Badilla",
+        "estudiante4":"Alejandra Valecillos",
+        "estudiante5":"",
+        "profesor1":"Pablo Cerda",
+        "profesor2":"",
+        "profesor3":"",
+        "imagen":"https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/insignias/lothar.jpg?raw=true",
+        "color":"orange"
+      },
+
+      {
+        "id": 7,
+        "colegio": "Pedro Aguirre Cerda",
+        "estudiante1":"Valentina Donoso",
+        "estudiante2":"Sarita Carril",
+        "estudiante3":"Gabriel Baldivian",
+        "estudiante4":"Antonella Gutiérrez",
+        "estudiante5":"",
+        "profesor1":"Ingebord Bringas",
+        "profesor2":"",
+        "profesor3":"",
+        "imagen":"https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/insignias/PAC.png?raw=true",
+        "color":"blue"
+      },
+
+      {
+        "id": 8,
+        "colegio": "Estrella Reina de Chile",
+        "estudiante1":"Laura Ocampo",
+        "estudiante2":"Simoney Blancheteau",
+        "estudiante3":"Samuel Murillo",
+        "estudiante4":"Gabriel Martínez",
+        "estudiante5":"",
+        "profesor1":"Carlos Ireland",
+        "profesor2":"",
+        "profesor3":"",
+        "imagen":"https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/insignias/Reina%20de%20Chile.jpg?raw=true",
+        "color":"green"
+      },
+
+      {
+        "id": 9,
+        "colegio": "Santa Adela",
+        "estudiante1":"Valentina Serrano",
+        "estudiante2":"Sofia Zúñiga",
+        "estudiante3":"Nicol Escobar",
+        "estudiante4":"Noelia Osorio",
+        "estudiante5":"",
+        "profesor1":"Lorena Jara",
+        "profesor2":"",
+        "profesor3":"",
+        "imagen":"https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/insignias/SantaAdela.jpg?raw=true",
+        "color":"green"
+      }
+  ]
