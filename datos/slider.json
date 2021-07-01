@@ -1,1 +1,15 @@
 
+[
+    {
+      "id": "1",
+      "img": "https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/sliders/1.jpg?raw=true"
+    },
+    {
+        "id": "2",
+        "img": "https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/sliders/2.jpg?raw=true"
+    },
+    {
+        "id": "3",
+        "img": "https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/sliders/3.jpg?raw=true"
+    }
+]
