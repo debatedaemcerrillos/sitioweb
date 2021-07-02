@@ -3,66 +3,74 @@
       "canal": "Mentira la Verdad",
       "video": "fir6h6oUlW0",
       "titulo": "¿Que es La Filosofía?",
-      "url":""
+      "url":"https://www.youtube.com/watch?v=EIBLH2t2QAY"
     },
     {
       "canal": "",
       "video": "P29NqzYaFBk",
       "titulo": "El orden",
-      "url":""
+      "url":"https://www.youtube.com/watch?v=wW4RzI2M4Wo"
     },
     {
       "canal": "",
       "video": "2h4vB7dcMUQ",
       "titulo": "Dios",
-      "url":""
+      "url":"https://www.youtube.com/watch?v=3XjwEkfq2cY"
     },
     {
       "canal": "",
       "video": "",
       "titulo": "",
-      "url": "https://www.youtube.com/watch?v=KHZN40_farM&list=PL8ZfEptaIREe_BPlhVUyf_QgVGvOiO8w1&index=4"
-    },
-    {
-      "canal": "Filosofía aquí y ahora",
-      "video": "MMPwE6Uv5Tw",
-      "titulo": "¿Porque hay algo y no más bien nada?",
-      "url":""
-    },
-    {
-      "canal": "",
-      "video": "V_2uqWVodMs",
-      "titulo": "Sacar la filosofía a la calle",
-      "url":""
-    },
-    {
-      "canal": "",
-      "video": "TOe4U_pAWuI",
-      "titulo": "Descartes la subjetividad",
-      "url":""
-    },
-    {
-      "canal": "",
-      "video": "",
-      "titulo": "",
-      "url":"https://www.youtube.com/watch?v=nbRSgucXda8&list=PLRHmAOq1DquE_Z14sZmaJ5QR8bwLKbds3"
+      "url": "",
+      "url_vermas": "https://www.youtube.com/watch?v=KHZN40_farM&list=PL8ZfEptaIREe_BPlhVUyf_QgVGvOiO8w1&index=4"
     },
     {
       "canal": "La Fonda Filosófica",
       "video": "cnD_1TTu8TU",
       "titulo": "La república de Platón, pt. 1/9",
-      "url":""
+      "url":"https://www.youtube.com/watch?v=cnD_1TTu8TU",
+      "url_vermas":""
     },
     {
       "canal": "",
       "video": "b1v9b5DVdD4",
       "titulo": "La república de Platón, pt. 2/9",
-      "url":""
+      "url":"https://www.youtube.com/watch?v=b1v9b5DVdD4",
+      "url_vermas": ""
+    },
+     {
+      "canal": "",
+      "video": "8MBSXzhIrsE",
+      "titulo": "La república de Platón, pt. 3/9",
+      "url":"https://www.youtube.com/watch?v=8MBSXzhIrsE",
+      "url_vermas": ""
     },
     {
       "canal": "",
       "video": "",
       "titulo": "",
-      "url":"https://www.youtube.com/watch?v=8MBSXzhIrsE&list=PLfg-nvLMvO0giwAC8WNPn0gPd5NT_Zix6&index=3"
+      "url":"",
+      "url_vermas":"https://www.youtube.com/watch?v=LLC0PZVudY4"
+    },
+    {
+      "canal": "Filosofía aquí y ahora",
+      "video": "nbRSgucXda8",
+      "titulo": "¿Porque hay algo y no más bien nada?",
+      "url":"https://www.youtube.com/watch?v=nbRSgucXda8",
+      "url_vermas":""
+    },
+    {
+      "canal": "",
+      "video": "5amxLSAJVQw",
+      "titulo": "Sacar la filosofía a la calle",
+      "url":"https://www.youtube.com/watch?v=5amxLSAJVQw",
+      "url_vermas":""
+    },
+    {
+      "canal": "",
+      "video": "",
+      "titulo": "",
+      "url":"",
+      "url_vermas":"https://www.youtube.com/watch?v=nbRSgucXda8&list=PLRHmAOq1DquE_Z14sZmaJ5QR8bwLKbds3"
     }
   ]
