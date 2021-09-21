@@ -47,7 +47,7 @@
 
       {
         "id": 4,
-        "colegio": "Dr. Luis Vargas Salcedo",
+        "colegio": "Dr Vargas Salcedo",
         "estudiante1":"Sofia A.",
         "estudiante2":"Cristian P.",
         "estudiante3":"Valery R.",
@@ -129,6 +129,20 @@
         "id": 9,
         "colegio": "Santa Adela",
         "estudiante1":"Valentina Serrano",
+        "estudiante2":"Sofia Zúñiga",
+        "estudiante3":"Nicol Escobar",
+        "estudiante4":"Noelia Osorio",
+        "estudiante5":"",
+        "profesor1":"Lorena Jara",
+        "profesor2":"",
+        "profesor3":"",
+        "imagen":"https://github.com/debatedaemcerrillos/sitioweb/blob/main/imagenes/insignias/SantaAdela.jpg?raw=true",
+        "color":"green"
+      },
+      {
+        "id": 10,
+        "colegio": "Santa Adela",
+        "estudiante1":"Roberto",
         "estudiante2":"Sofia Zúñiga",
         "estudiante3":"Nicol Escobar",
         "estudiante4":"Noelia Osorio",
